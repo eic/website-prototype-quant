@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ePIC Collaboration</title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
+    <description>ePIC Collaboration</description>
+    
+      <item>
+        <title>About</title>
+        <link>http://localhost:4000/about</link>
+        <guid>http://localhost:4000/about</guid>
+        <pubDate>Tue, 25 Mar 2025 14:54:08 -0400</pubDate>
+        <description>
+          <![CDATA[Sorry, this page is under construction.]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>ePIC Collaboration Meeting 2025</title>
+        <link>http://localhost:4000/news/2024-11-14-scidac-quantom-collab-meeting.html</link>
+        <guid>http://localhost:4000/news/2024-11-14-scidac-quantom-collab-meeting.html</guid>
+        <pubDate>Thu, 14 Nov 2024 00:00:00 -0500</pubDate>
+        <description>
+          <![CDATA[https://indico.jlab.org/event/894/overview]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>Planning Meeting 2024</title>
+        <link>http://localhost:4000/news/2024-07-16-scidac-pi-meeting-2024.html</link>
+        <guid>http://localhost:4000/news/2024-07-16-scidac-pi-meeting-2024.html</guid>
+        <pubDate>Tue, 16 Jul 2024 00:00:00 -0400</pubDate>
+        <description>
+          <![CDATA[Lorem ipsum odor amet, consectetuer adipiscing elit.Diam nisl taciti taciti himenaeos fringilla dignissim ante.Tristique semper per euismod egestas non; dignissim arcu odio.Vestibulum facilisi accumsan volutpat aliquam curae adipiscing tempor.Finibus eget facilisi pharetra curae porta diam tincidunt nullam vel.Cursus magna lorem mus potenti parturient.Lorem mattis consectetur finibus arcu scelerisque iaculis, mauris...]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>Software Meeting 2023</title>
+        <link>http://localhost:4000/news/2023-09-12-scidac-pi-meeting-2023.html</link>
+        <guid>http://localhost:4000/news/2023-09-12-scidac-pi-meeting-2023.html</guid>
+        <pubDate>Tue, 12 Sep 2023 00:00:00 -0400</pubDate>
+        <description>
+          <![CDATA[Lorem ipsum odor amet, consectetuer adipiscing elit.Accumsan vehicula nulla penatibus vivamus parturient tempor per volutpat nam.Massa elementum malesuada eros penatibus sit litora iaculis sapien parturient.Accumsan diam magna dictum eget quis.Platea sociosqu dui dis dui in torquent ligula felis pretium.Iaculis diam bibendum in vehicula nostra; viverra eget curabitur tempor.Parturient varius dignissim...]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>ePIC Collaboration Meeting 2023</title>
+        <link>http://localhost:4000/news/2023-07-20-quantom-collab-meeting.html</link>
+        <guid>http://localhost:4000/news/2023-07-20-quantom-collab-meeting.html</guid>
+        <pubDate>Thu, 20 Jul 2023 00:00:00 -0400</pubDate>
+        <description>
+          <![CDATA[Lorem ipsum odor amet, consectetuer adipiscing elit.Viverra mollis nisi habitasse nibh lectus.Felis sodales sem ligula ullamcorper posuere tortor interdum.Tortor a erat ultrices sollicitudin penatibus enim conubia porta.Enim augue hac netus erat ac ut eu.Metus sem vestibulum iaculis sagittis orci augue per eros.Felis mus massa ultrices cubilia tempor eros.Porta mattis magnis...]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>The Start of ePIC Collaboration</title>
+        <link>http://localhost:4000/news/2022-10-01-establishing-quantom-collab.html</link>
+        <guid>http://localhost:4000/news/2022-10-01-establishing-quantom-collab.html</guid>
+        <pubDate>Sat, 01 Oct 2022 00:00:00 -0400</pubDate>
+        <description>
+          <![CDATA[Lorem ipsum odor amet, consectetuer adipiscing elit.Mus fermentum volutpat viverra curabitur elementum donec purus orci.Maecenas velit duis nisi ornare quam luctus nunc sollicitudin.Tortor mattis nisi mattis laoreet nunc, nec velit suscipit.Elementum tortor eu sodales lacus efficitur nec sociosqu.Id penatibus ornare augue class praesent magnis penatibus scelerisque torquent.Ex tempor eu mauris,...]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>Talks</title>
+        <link>http://localhost:4000/talks</link>
+        <guid>http://localhost:4000/talks</guid><description>
+          <![CDATA[]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>Science</title>
+        <link>http://localhost:4000/science</link>
+        <guid>http://localhost:4000/science</guid><description>
+          <![CDATA[Sorry, this page is under construction.]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>Resources</title>
+        <link>http://localhost:4000/resources</link>
+        <guid>http://localhost:4000/resources</guid><description>
+          <![CDATA[Sorry, this page is under construction.]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>Publications</title>
+        <link>http://localhost:4000/publications</link>
+        <guid>http://localhost:4000/publications</guid><description>
+          <![CDATA[]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>People</title>
+        <link>http://localhost:4000/people</link>
+        <guid>http://localhost:4000/people</guid><description>
+          <![CDATA[]]>
+        </description>
+      </item>
+      
+      <item>
+        <title>News</title>
+        <link>http://localhost:4000/news</link>
+        <guid>http://localhost:4000/news</guid><description>
+          <![CDATA[]]>
+        </description>
+      </item>
+      
+  </channel>
+</rss>
