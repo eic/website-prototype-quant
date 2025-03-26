@@ -17,7 +17,7 @@
 
         <!-- the image associated with the highlight -->
         <img class="headimg" alt="Image"
-          src="{{ site.url }}/{{ highlight.image }}"
+          src="{{ highlight.image | relative_url }}"
         >
 
         <!-- the main body of this highlight card -->
@@ -39,3 +39,4 @@
 
   </div>
 </section>
+<!-- {{ site.url }}/{{ highlight.image }} -->
