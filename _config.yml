@@ -8,7 +8,7 @@
 
 # basic infor for GitHub pages
 domain: quantom-collab.github.io
-baseurl: "" # intentionally left blank
+baseurl: "/website-prototype-quant" # intentionally left blank
 
 # markdown renderer
 markdown: kramdown
@@ -23,7 +23,7 @@ title: ePIC Collaboration
 tagline: ePIC Collaboration
 description: ePIC Collaboration
 author: ePIC Collaboration
-logo: /website-prototype-quant/assets/img/logo.png
+logo: /assets/img/logo.png
 locale: en_US
 
 # grouping different types of posts
